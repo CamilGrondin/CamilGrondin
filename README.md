@@ -1,7 +1,7 @@
 # About me?
 
-[![FR](https://img.shields.io/badge/Language-FRANCAIS-blue)](https://github.com/CamilGrondin/CamilGrondin/new/main?filename=README.md)
-![EN](https://img.shields.io/badge/Language-ENGLISH-GRENN)
+[![FR](https://img.shields.io/badge/Language-FRANCAIS-blue)](https://github.com/CamilGrondin/CamilGrondin/tree/main)
+![EN](https://img.shields.io/badge/Language-ENGLISH-GRENN)(https://github.com/CamilGrondin/CamilGrondin/tree/main)
 
 ### Qui suis-je :
 👋 Salut, je suis @CamilGrondin, un jeune passionné par l'aeronautique, l'électronique et l'informatique.
